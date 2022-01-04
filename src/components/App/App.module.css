@@ -1,0 +1,18 @@
+.feedback__title{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.feedback__btns__area{
+  display: flex;
+  flex-direction: column;
+}
+
+.feedback__btn{
+  width: 150px;
+  height: 20px
+}
+
+.feedback__btn:not(:last-child){
+  margin-bottom: 5px;
+}
