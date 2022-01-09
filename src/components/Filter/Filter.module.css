@@ -1,0 +1,10 @@
+.filter {
+  font-weight: 500;
+}
+
+.filter__input {
+  margin-left: 10px;
+  padding: 4px;
+
+  outline: none;
+}

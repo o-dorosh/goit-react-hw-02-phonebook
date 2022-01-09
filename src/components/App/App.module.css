@@ -1,18 +1,7 @@
-.feedback__title{
-  font-size: 24px;
-  font-weight: bold;
+.main__title {
+  color: rgb(158, 0, 250);
 }
 
-.feedback__btns__area{
-  display: flex;
-  flex-direction: column;
-}
-
-.feedback__btn{
-  width: 150px;
-  height: 20px
-}
-
-.feedback__btn:not(:last-child){
-  margin-bottom: 5px;
+.secondary__title {
+  color: rgb(114, 46, 153);
 }
